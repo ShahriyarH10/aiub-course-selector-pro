@@ -26,6 +26,7 @@ Add your screenshots in a `screenshots/` folder and update the file names below.
 
 ![Main Window](screenshots/main-window.png)
 ![Log View](screenshots/automation-log.png)
+![Working View](screenshots/working-demo.gif)
 
 ## Notes
 - Download only from this repository’s Releases page.
