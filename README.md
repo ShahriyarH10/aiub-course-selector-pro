@@ -37,9 +37,5 @@ the screenshots and gif added below for better understanding.
 - The portable Windows version can be used without installation.
 - macOS users may see a security warning if the app is unsigned or not notarized.
 
-## Source Code
-The production source code is kept in a separate private repository.
-This public repository is used only for app downloads, release notes, and screenshots.
-
 ## Issue Reporting
 If you find a bug or want to request a feature, open an issue in this repository.
