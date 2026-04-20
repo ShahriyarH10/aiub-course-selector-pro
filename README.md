@@ -22,10 +22,13 @@ Desktop application for helping AIUB students select course sections and generat
 - Windows and macOS builds
 
 ## Screenshots
-Add your screenshots in a `screenshots/` folder and update the file names below.
+the screenshots and gif added below for better understanding.
 
+### Main Window
 ![Main Window](screenshots/main-window.png)
+### Log View
 ![Log View](screenshots/automation-log.png)
+### Working View
 ![Working View](screenshots/working-demo.gif)
 
 ## Notes
