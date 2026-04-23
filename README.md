@@ -13,7 +13,7 @@ Desktop application for helping AIUB students select course sections and generat
 - [macOS DMG](https://github.com/ShahriyarH10/aiub-course-selector-pro/releases/latest/download/AIUB-Course-Selector-Pro.dmg)
 - [macOS ZIP](https://github.com/ShahriyarH10/aiub-course-selector-pro/releases/latest/download/AIUB-Course-Selector-Pro-mac.zip)
 - [Linux AppImage](https://github.com/ShahriyarH10/aiub-course-selector-pro/releases/latest/download/AIUB-Course-Selector-Pro.AppImage)
-- [Linux DEB](https://github.com/ShahriyarH10/aiub-course-selector-pro/releases/latest/download/aiub-course-selector-pro.deb)
+- [Linux DEB](https://github.com/ShahriyarH10/aiub-course-selector-pro/releases/latest/download/AIUB-Course-Selector-Pro.deb)
 
 ## Features
 - Desktop GUI for course selection support
